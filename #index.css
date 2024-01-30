@@ -1,0 +1,26 @@
+h1 {
+    color: green;
+    font-size: 40px;
+    font-weight: 600;
+    font-style: italic;
+    text-align: center;
+    background-color: purple;
+}
+body {
+    background-image: url(../images/nature.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background: url(../images/nature.jpg)
+    height: 100vh;
+}
+img {
+    border-width: 5px;
+    border-style: solid;
+    border-color: yellow;
+    border: 5px solid red;
+    border-top: 5px solid gold;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px violet;
+}
